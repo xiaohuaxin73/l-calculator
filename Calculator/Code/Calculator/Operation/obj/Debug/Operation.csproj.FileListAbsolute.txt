@@ -1,0 +1,2 @@
+F:\C#File\Calculator\Operation\obj\Debug\Operation.csprojAssemblyReference.cache
+F:\C#File\Calculator\Operation\obj\Debug\Operation.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+F:\C#File\Calculator\Value\bin\Debug\Value.dll
+F:\C#File\Calculator\Value\bin\Debug\Value.pdb
+F:\C#File\Calculator\Value\obj\Debug\Value.csprojAssemblyReference.cache
+F:\C#File\Calculator\Value\obj\Debug\Value.csproj.CoreCompileInputs.cache
+F:\C#File\Calculator\Value\obj\Debug\Value.dll
+F:\C#File\Calculator\Value\obj\Debug\Value.pdb
